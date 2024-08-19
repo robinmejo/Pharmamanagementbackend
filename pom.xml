@@ -11,8 +11,8 @@
 	<groupId>com.inn.cafe</groupId>
 	<artifactId>com.inn.cafe</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Cafe Management System</name>
-	<description>Cafe Management System project video</description>
+	<name>Pharma Care</name>
+	<description>Pharma Care Application</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>

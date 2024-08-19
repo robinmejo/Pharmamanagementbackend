@@ -61,7 +61,7 @@ public class BillServiceImpl implements BillService {
                 document.open();
                 setRectangleInPdf(document);
 
-                Paragraph chunk = new Paragraph("Cafe Management System", getFont("Header"));
+                Paragraph chunk = new Paragraph("Pharma Care", getFont("Header"));
                 chunk.setAlignment(Element.ALIGN_CENTER);
                 document.add(chunk);
 
